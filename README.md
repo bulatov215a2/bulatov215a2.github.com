@@ -1,2 +1,2 @@
--bulatov215a2-.github.com
+bulatov215a2.github.com
 =========================
